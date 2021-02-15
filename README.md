@@ -22,5 +22,5 @@
     
 ## LAYOUTS and UI
 
-<img src="WhatsApp%20Image%202021-02-15%20at%2012.48.29.jpeg" width="400">  <img src="pawfect images/WhatsApp%20Image%202021-01-27%20at%203.05.48%20PM%20(3).jpeg" width="400">
+<img src="WhatsApp%20Image%202021-02-15%20at%2012.48.29.jpeg" width="400" height="500">  <img src="pawfect images/WhatsApp%20Image%202021-01-27%20at%203.05.48%20PM%20(3).jpeg" width="400">
 <img src="pawfect images/WhatsApp%20Image%202021-01-27%20at%203.05.47%20PM.jpeg" width="400"> <img src="pawfect images/WhatsApp%20Image%202021-01-27%20at%203.05.48%20PM%20(5).jpeg" width="400"> <img src="pawfect images/WhatsApp%20Image%202021-01-27%20at%203.05.48%20PM%20(1).jpeg" width="400"> <img src="pawfect images/WhatsApp%20Image%202021-01-27%20at%203.05.48%20PM%20(6).jpeg" width="400">
