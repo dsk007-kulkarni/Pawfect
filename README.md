@@ -1,6 +1,7 @@
 # Pawfect
 
 ## Introduction
+
     1. Splash Screen
     2. On Boarding Screen
     3. Signup and Login Screen
@@ -11,16 +12,30 @@
     8. Put up your pet for adoption
 
 ## Functionalities
-    - A complete platform for volunteers and interested adopters to put up their pets or foster animals for 
+
+    - A complete platform for volunteers and interested adopters to put up their pets or foster animals for
       adoption or adopt those pets respectively.
     - Be informed of the adoption campaigns taking place in their locality.
     - Navigate through google maps to display real-time location.
     - Dynamically add and display information of the respective pets.
 
 ## Tech Stack
+
     Java, Firebase, Rest API, Google OAUTH
-    
+
 ## LAYOUTS and UI
 
-<img src="WhatsApp%20Image%202021-02-15%20at%2012.48.29.jpeg" width="400" height="500">  <img src="pawfect images/WhatsApp%20Image%202021-01-27%20at%203.05.48%20PM%20(3).jpeg" width="400">
-<img src="pawfect images/WhatsApp%20Image%202021-01-27%20at%203.05.47%20PM.jpeg" width="400"> <img src="pawfect images/WhatsApp%20Image%202021-01-27%20at%203.05.48%20PM%20(5).jpeg" width="400"> <img src="pawfect images/WhatsApp%20Image%202021-01-27%20at%203.05.48%20PM%20(1).jpeg" width="400"> <img src="pawfect images/WhatsApp%20Image%202021-01-27%20at%203.05.48%20PM%20(6).jpeg" width="400">
+![img](/Image/WhatsApp Image 2021-02-15 at 12.48.29.jpeg)
+
+
+
+<img src="Images/1.jpeg" width="400" height="500">
+<img src="Images/2.jpeg" width="400" height="500">
+<img src="Images/3.jpeg" width="400" height="500">
+<img src="Images/4.jpeg" width="400" height="500">
+<img src="Images/5.jpeg" width="400" height="500">
+<img src="Images/6.jpeg" width="400" height="500">
+<img src="Images/7.jpeg" width="400" height="500">
+<img src="Images/8.jpeg" width="400" height="500">
+<img src="Images/9.jpeg" width="400" height="500">
+<img src="Images/10.jpeg" width="400" height="500">
