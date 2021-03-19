@@ -25,7 +25,7 @@
 
 ## LAYOUTS and UI
 
-![img](/Image/WhatsApp Image 2021-02-15 at 12.48.29.jpeg)
+
 
 
 
